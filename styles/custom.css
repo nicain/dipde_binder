@@ -1,0 +1,15 @@
+<style>
+div.header_table {
+    border-spacing: 0px;
+    border: 1px solid blue;
+}
+</style>
+
+<style>
+div.warn {    
+    background-color: #fcf2f2;
+    border-color: #dFb5b4;
+    border-left: 5px solid #dfb5b4;
+    padding: 0.5em;
+    }
+</style>

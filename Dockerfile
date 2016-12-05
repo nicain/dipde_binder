@@ -5,7 +5,7 @@ MAINTAINER Nicholas Cain <nicholasc@galleninstitute.org>
 USER root
 
 RUN apt-get update
-RUN apt-get install -y xvfb
+#RUN apt-get install -y xvfb
 
 USER main
 
